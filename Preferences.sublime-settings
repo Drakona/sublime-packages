@@ -1,0 +1,29 @@
+{
+	"added_words":
+	[
+		"Dreeckan",
+		"succédés",
+		"elraan",
+		"Finilkhin"
+	],
+	"always_show_minimap_viewport": true,
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/SublimeLinter/Triplet (SL).tmTheme",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"ignored_words":
+	[
+		"ufs"
+	],
+	"indent_to_bracket": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
