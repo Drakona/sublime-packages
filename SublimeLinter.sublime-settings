@@ -1,0 +1,10 @@
+{
+    "user": {
+        "paths": {
+            "linux": ["~/.composer/vendor/bin"]
+        },
+        "syntax_map": {
+            "html (django)": "twig"
+        }
+    }
+}

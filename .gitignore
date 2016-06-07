@@ -4,3 +4,4 @@ Package Control.ca-bundle
 Package Control.system-ca-bundle
 *.cache
 Package Control.ca-certs/
+Color Highlighter/icons/*

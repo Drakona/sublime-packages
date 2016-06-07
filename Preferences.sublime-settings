@@ -16,12 +16,11 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
-	],
-	"ignored_words":
-	[
-		"ufs"
+		"Autoprefixer",
+		"Markdown",
+		"PHP Getters and Setters",
+		"SyncedSideBar",
+		"Vintage"
 	],
 	"indent_to_bracket": true,
 	"translate_tabs_to_spaces": true,

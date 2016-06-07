@@ -123,11 +123,13 @@
     { "keys": ["`","i"], "command": "insert", "args": {"characters": "ì"}},
     { "keys": ["´","i"], "command": "insert", "args": {"characters": "í"}},
     { "keys": ["¨","i"], "command": "insert", "args": {"characters": "ï"}},
+    { "keys": ["^","i"], "command": "insert", "args": {"characters": "î"}},
 
     // I, [Ì, Í, Ï]
     { "keys": ["`","I"], "command": "insert", "args": {"characters": "Ì"}},
     { "keys": ["´","I"], "command": "insert", "args": {"characters": "Í"}},
     { "keys": ["¨","I"], "command": "insert", "args": {"characters": "Ï"}},
+    { "keys": ["^","I"], "command": "insert", "args": {"characters": "Î"}},
 
     // o, [ó, õ, ô, ö]
     { "keys": ["´","o"], "command": "insert", "args": {"characters": "ó"}},
@@ -145,40 +147,30 @@
     { "keys": ["´","u"], "command": "insert", "args": {"characters": "ú"}},
     { "keys": ["°","u"], "command": "insert", "args": {"characters": "ů"}},
     { "keys": ["¨","u"], "command": "insert", "args": {"characters": "ü"}},
+    { "keys": ["^","u"], "command": "insert", "args": {"characters": "û"}},
 
     // U, [Ú, Ů, Ü]
     { "keys": ["´","U"], "command": "insert", "args": {"characters": "Ú"}},
     { "keys": ["°","U"], "command": "insert", "args": {"characters": "Ů"}},
     { "keys": ["¨","U"], "command": "insert", "args": {"characters": "Ü"}},
+    { "keys": ["^","U"], "command": "insert", "args": {"characters": "Û"}},
 
     // y, [ý, ÿ]
     { "keys": ["´","y"], "command": "insert", "args": {"characters": "ý"}},
     { "keys": ["¨","y"], "command": "insert", "args": {"characters": "ÿ"}},
+    { "keys": ["^","y"], "command": "insert", "args": {"characters": "ŷ"}},
 
     // Y, [Ý, Ÿ]
     { "keys": ["´","Y"], "command": "insert", "args": {"characters": "Ý"}},
     { "keys": ["¨","Y"], "command": "insert", "args": {"characters": "Ÿ"}},
-    { "keys": ["²","O","E"], "command": "insert", "args": {"characters": "&OElig;"}},
-    { "keys": ["²","o","e"], "command": "insert", "args": {"characters": "&oelig;"}},
-    {
-        "keys": ["^","^","-"],
-        "command": "insert",
-        "args": {
-            "characters": "&mdash;&nbsp;"
-        }
-    },
-    {
-        "keys": ["^","-"],
-        "command": "insert",
-        "args": {
-            "characters": "&nbsp;&ndash;"
-        }
-    },
-    {
-        "keys": ["-","^"],
-        "command": "insert",
-        "args": {
-            "characters": "&ndash;&nbsp;"
-        }
-    }
+    { "keys": ["^","Y"], "command": "insert", "args": {"characters": "Ŷ"}},
+
+    { "keys": ["O","E"], "command": "insert", "args": {"characters": "Œ"}},
+    { "keys": ["o","e"], "command": "insert", "args": {"characters": "œ"}},
+
+    { "keys": ["^","\"", " "], "command": "insert", "args": {"characters": "&laquo;&nbsp;"}},
+    { "keys": ["^", " ","\""], "command": "insert", "args": {"characters": "&nbsp;&raquo;"}},
+    { "keys": ["^","^","-"], "command": "insert", "args": {"characters": "&mdash;&nbsp;"}},
+    { "keys": ["^","-"], "command": "insert", "args": {"characters": "&nbsp;&ndash;"}},
+    { "keys": ["-","^"], "command": "insert", "args": {"characters": "&ndash;&nbsp;"}}
 ]
