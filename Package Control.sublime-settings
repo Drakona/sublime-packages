@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Theme - Refresh"
 	],
 	"installed_packages":
 	[
@@ -25,8 +26,8 @@
 		"Git Conflict Resolver",
 		"GitGutter",
 		"Gitignore",
-		"Handlebars",
 		"Gulp",
+		"Handlebars",
 		"HTML5",
 		"Indent XML",
 		"LaTeX Word Count",
@@ -49,13 +50,12 @@
 		"SASS Snippets",
 		"SfCommand",
 		"SmartMarkdown",
-		"Sublimall",
 		"SublimeLinter",
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-twiglint",
 		"SublimeLinter-csslint",
-		"SublimeLinter-phpcs",
 		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
 		"SyncedSideBar",
 		"Theme - Freesia",
 		"Theme - Refresh",

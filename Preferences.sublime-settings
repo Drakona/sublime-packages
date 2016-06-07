@@ -19,6 +19,8 @@
 		"Autoprefixer",
 		"Markdown",
 		"PHP Getters and Setters",
+		"SASS Build",
+		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Vintage"
 	],
