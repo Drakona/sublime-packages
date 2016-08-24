@@ -34,7 +34,8 @@
 	"indent_to_bracket": true,
 	"index_exclude_patterns":
 	[
-		"*.log"
+		"*.log",
+		"*.phar"
 	],
 	"rulers": [
 		80
