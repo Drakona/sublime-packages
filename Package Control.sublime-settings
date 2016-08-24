@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SfCommand",
 		"Theme - Refresh"
 	],
 	"installed_packages":
@@ -40,6 +41,8 @@
 		"Markdown Extended",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"Monokai - Spacegray",
 		"nginx",
 		"Numix Theme",
 		"Origami",
