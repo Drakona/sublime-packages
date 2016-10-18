@@ -1,6 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
-	"close_windows_when_empty": true,
+	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/Triplet (SL).tmTheme",
 	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
