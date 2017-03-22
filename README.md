@@ -1,13 +1,19 @@
 # sublime-packages
 A shared repository with our Sublime Text 3 packages and configuration.
-We use it on Ubuntu 14.10 and French azerty keyboards.
+We use it on Ubuntu 16.04 and French azerty keyboards.
 
 ## How to use this config
 
 * Make sure Package Control is installed (if not, [follow those steps on packagecontrol.io](https://packagecontrol.io/installation))
 * Close Sublime Text
-* move all files from ~/.config/sublime-text-3/Packages/User to somewhere safe (make sure your directory is empty)
-* Clone into  ~/.config/sublime-text-3/Packages/User 
+* move all files from ~/.config/sublime-text-3/Packages/User to somewhere safe (make sure your directory is empty) :
+  ```
+    mv ~/.config/sublime-text-3/Packages/User ~/.config/sublime-text-3/Packages/User.bck
+  ```
+* Clone into  ~/.config/sublime-text-3/Packages/User :
+  ```
+    git clone git@github.com:Drakona/sublime-packages.git ~/.config/sublime-text-3/Packages/User
+  ```
 * start Sublime Text 3
 * Now, we have the exact same config ;) .
 
