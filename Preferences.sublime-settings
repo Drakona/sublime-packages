@@ -25,6 +25,7 @@
 	"ignored_packages":
 	[
 		"Autoprefixer",
+		"Emmet",
 		"Markdown",
 		"SASS Build",
 		"SyncedSideBar",
@@ -35,7 +36,8 @@
 	"index_exclude_patterns":
 	[
 		"*.log",
-		"*.phar"
+		"*.phar",
+		"*.cache"
 	],
 	"rulers":
 	[
