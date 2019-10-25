@@ -3,28 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Triplet Lite</string>
+	<string>Triplet</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3a3d42</string>
+				<string>#171719</string>
 				<key>caret</key>
 				<string>#33ddff</string>
 				<key>foreground</key>
-				<string>#c0c0c0</string>
+				<string>#c6cfd2</string>
 				<key>gutter</key>
-				<string>#2f3236</string>
+				<string>#171719</string>
 				<key>gutterForeground</key>
-				<string>#7b7b7b</string>
+				<string>#404040</string>
 				<key>inactiveSelection</key>
 				<string>#94a0af6d</string>
 				<key>invisibles</key>
 				<string>#404040</string>
 				<key>lineHighlight</key>
-				<string>#8f97aa28</string>
+				<string>#42557c3f</string>
 				<key>selection</key>
 				<string>#249ae73d</string>
 				<key>selectionBorder</key>
@@ -39,7 +39,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#757280</string>
+				<string>#74717e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5acbdb</string>
+				<string>#3d8f9a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -182,7 +182,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4dc0ff</string>
+				<string>#47aee8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -193,7 +193,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#38bdff</string>
+				<string>#34a2d9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,7 +215,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4dc0ff</string>
+				<string>#47aee8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,7 +237,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bb94ef</string>
+				<string>#bb95ef</string>
 			</dict>
 		</dict>
 		<dict>
@@ -248,7 +248,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88bee8</string>
+				<string>#6e9cbe</string>
 			</dict>
 		</dict>
 		<dict>
@@ -327,7 +327,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ff250068</string>
+				<string>#cc0000</string>
 				<key>foreground</key>
 				<string>#ffffff</string>
 			</dict>
@@ -340,7 +340,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#eefb66</string>
+				<string>#797be6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -472,8 +472,8 @@
                 <key>foreground</key>
                 <string>#D02000</string>
             </dict>
-        </dict></array>
+        </dict><dict><key>name</key><string>Comparison added</string><key>scope</key><string>comparison.added</string><key>settings</key><dict><key>background</key><string>#a3be8c</string><key>foreground</key><string>#2b303b</string></dict></dict><dict><key>name</key><string>Comparison modified_deletion</string><key>scope</key><string>comparison.modified_deletion</string><key>settings</key><dict><key>background</key><string>#7fa3c7</string><key>foreground</key><string>#2b303b</string></dict></dict><dict><key>name</key><string>Comparison modified_addition</string><key>scope</key><string>comparison.modified_addition</string><key>settings</key><dict><key>background</key><string>#7fa3c7</string><key>foreground</key><string>#2b303b</string></dict></dict><dict><key>name</key><string>Comparison removed</string><key>scope</key><string>comparison.removed</string><key>settings</key><dict><key>background</key><string>#bf616a</string><key>foreground</key><string>#2b303b</string></dict></dict></array>
 	<key>uuid</key>
-	<string>3822989C-1C53-4842-B767-B1107F7FBBB1</string>
+	<string>E9ED2A18-B784-4BC9-9CBA-2DE88F019B88</string>
 </dict>
 </plist>
